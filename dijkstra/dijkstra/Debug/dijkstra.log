@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\ringo\documents\visual studio 2015\projects\dijkstra\dijkstra\main.cpp(2): warning C4005: 'INFINITY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(78): note: see previous definition of 'INFINITY'
+  dijkstra.vcxproj -> c:\users\ringo\documents\visual studio 2015\Projects\dijkstra\Debug\dijkstra.exe
+  dijkstra.vcxproj -> c:\users\ringo\documents\visual studio 2015\Projects\dijkstra\Debug\dijkstra.pdb (Full PDB)

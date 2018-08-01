@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\ringo\documents\visual studio 2015\projects\hw3full\hw3full\main.cpp(437): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ringo\documents\visual studio 2015\projects\hw3full\hw3full\main.cpp(478): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ringo\documents\visual studio 2015\projects\hw3full\hw3full\main.cpp(520): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ringo\documents\visual studio 2015\projects\hw3full\hw3full\main.cpp(432): warning C4101: 'rn': unreferenced local variable
+c:\users\ringo\documents\visual studio 2015\projects\hw3full\hw3full\main.cpp(433): warning C4101: 'dup': unreferenced local variable
+  hw3full.vcxproj -> C:\Users\Ringo\Documents\Visual Studio 2015\Projects\hw3full\Debug\hw3full.exe
+  hw3full.vcxproj -> C:\Users\Ringo\Documents\Visual Studio 2015\Projects\hw3full\Debug\hw3full.pdb (Full PDB)

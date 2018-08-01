@@ -1,0 +1,62 @@
+digraph t1 { 
+node7503[label="750 3"]
+node6638[label="663|8"]
+node7503->node6638
+node6638[label="663 8"]
+node6566[label="656|6"]
+node6638->node6566
+node6566[label="656 6"]
+node5002[label="500|2"]
+node6566->node5002
+node5002[label="500 2"]
+null28[style="invis"]
+node5002->null28
+node5002[label="500 2"]
+null29[style="invis"]
+node5002->null29
+node6566[label="656 6"]
+null30[style="invis"]
+node6566->null30
+node6638[label="663 8"]
+node6875[label="687|5"]
+node6638->node6875
+node6875[label="687 5"]
+node66513[label="665|13"]
+node6875->node66513
+node66513[label="665 13"]
+node66512[label="665|12"]
+node66513->node66512
+node66512[label="665 12"]
+null31[style="invis"]
+node66512->null31
+node66512[label="665 12"]
+null32[style="invis"]
+node66512->null32
+node66513[label="665 13"]
+node6679[label="667|9"]
+node66513->node6679
+node6679[label="667 9"]
+node66611[label="666|11"]
+node6679->node66611
+node66611[label="666 11"]
+null33[style="invis"]
+node66611->null33
+node66611[label="666 11"]
+null34[style="invis"]
+node66611->null34
+node6679[label="667 9"]
+null35[style="invis"]
+node6679->null35
+node6875[label="687 5"]
+null36[style="invis"]
+node6875->null36
+node7503[label="750 3"]
+node10001[label="1000|1"]
+node7503->node10001
+node10001[label="1000 1"]
+null37[style="invis"]
+node10001->null37
+node10001[label="1000 1"]
+null38[style="invis"]
+node10001->null38
+};

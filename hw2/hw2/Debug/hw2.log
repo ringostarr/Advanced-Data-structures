@@ -1,0 +1,15 @@
+﻿  main.cpp
+c:\users\ringo\documents\visual studio 2015\projects\hw2\hw2\main.cpp(25): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\ringo\documents\visual studio 2015\projects\hw2\hw2\main.cpp(30): warning C4018: '<': signed/unsigned mismatch
+c:\users\ringo\documents\visual studio 2015\projects\hw2\hw2\main.cpp(283): warning C4018: '<': signed/unsigned mismatch
+c:\users\ringo\documents\visual studio 2015\projects\hw2\hw2\main.cpp(287): warning C4018: '<': signed/unsigned mismatch
+c:\users\ringo\documents\visual studio 2015\projects\hw2\hw2\main.cpp(305): warning C4018: '<': signed/unsigned mismatch
+c:\users\ringo\documents\visual studio 2015\projects\hw2\hw2\main.cpp(435): warning C4018: '<': signed/unsigned mismatch
+c:\users\ringo\documents\visual studio 2015\projects\hw2\hw2\main.cpp(492): warning C4018: '<': signed/unsigned mismatch
+c:\users\ringo\documents\visual studio 2015\projects\hw2\hw2\main.cpp(746): warning C4018: '<': signed/unsigned mismatch
+c:\users\ringo\documents\visual studio 2015\projects\hw2\hw2\main.cpp(788): warning C4018: '<': signed/unsigned mismatch
+c:\users\ringo\documents\visual studio 2015\projects\hw2\hw2\main.cpp(840): warning C4018: '<': signed/unsigned mismatch
+c:\users\ringo\documents\visual studio 2015\projects\hw2\hw2\main.cpp(860): warning C4018: '<': signed/unsigned mismatch
+c:\users\ringo\documents\visual studio 2015\projects\hw2\hw2\main.cpp(880): warning C4018: '<': signed/unsigned mismatch
+  hw2.vcxproj -> C:\Users\Ringo\documents\visual studio 2015\Projects\hw2\Debug\hw2.exe
+  hw2.vcxproj -> C:\Users\Ringo\documents\visual studio 2015\Projects\hw2\Debug\hw2.pdb (Full PDB)

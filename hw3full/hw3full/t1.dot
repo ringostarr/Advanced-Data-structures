@@ -1,0 +1,98 @@
+digraph t1 { 
+node00[label="0 0"]
+null0[style="invis"]
+node00->null0
+node00[label="0 0"]
+node10001[label="1000|1"]
+node00->node10001
+node10001[label="1000 1"]
+node5002[label="500|2"]
+node10001->node5002
+node5002[label="500 2"]
+null1[style="invis"]
+node5002->null1
+node5002[label="500 2"]
+node7503[label="750|3"]
+node5002->node7503
+node7503[label="750 3"]
+node6254[label="625|4"]
+node7503->node6254
+node6254[label="625 4"]
+null2[style="invis"]
+node6254->null2
+node6254[label="625 4"]
+node6875[label="687|5"]
+node6254->node6875
+node6875[label="687 5"]
+node6566[label="656|6"]
+node6875->node6566
+node6566[label="656 6"]
+null3[style="invis"]
+node6566->null3
+node6566[label="656 6"]
+node6717[label="671|7"]
+node6566->node6717
+node6717[label="671 7"]
+node6638[label="663|8"]
+node6717->node6638
+node6638[label="663 8"]
+null4[style="invis"]
+node6638->null4
+node6638[label="663 8"]
+node6679[label="667|9"]
+node6638->node6679
+node6679[label="667 9"]
+node66510[label="665|10"]
+node6679->node66510
+node66510[label="665 10"]
+node66512[label="665|12"]
+node66510->node66512
+node66512[label="665 12"]
+node66513[label="665|13"]
+node66512->node66513
+node66513[label="665 13"]
+node66514[label="665|14"]
+node66513->node66514
+node66514[label="665 14"]
+node66515[label="665|15"]
+node66514->node66515
+node66515[label="665 15"]
+null5[style="invis"]
+node66515->null5
+node66515[label="665 15"]
+null6[style="invis"]
+node66515->null6
+node66514[label="665 14"]
+null7[style="invis"]
+node66514->null7
+node66513[label="665 13"]
+null8[style="invis"]
+node66513->null8
+node66512[label="665 12"]
+null9[style="invis"]
+node66512->null9
+node66510[label="665 10"]
+node66611[label="666|11"]
+node66510->node66611
+node66611[label="666 11"]
+null10[style="invis"]
+node66611->null10
+node66611[label="666 11"]
+null11[style="invis"]
+node66611->null11
+node6679[label="667 9"]
+null12[style="invis"]
+node6679->null12
+node6717[label="671 7"]
+null13[style="invis"]
+node6717->null13
+node6875[label="687 5"]
+null14[style="invis"]
+node6875->null14
+node7503[label="750 3"]
+null15[style="invis"]
+node7503->null15
+node10001[label="1000 1"]
+null16[style="invis"]
+node10001->null16
+};
